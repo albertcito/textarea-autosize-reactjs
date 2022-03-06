@@ -1,4 +1,6 @@
-[![npm version](https://img.shields.io/npm/v/texarea-autosize-reactjs.svg)](https://www.npmjs.com/package/react-textarea-autosize)
+[![npm version](https://img.shields.io/npm/v/texarea-autosize-reactjs.svg)](https://www.npmjs.com/package/texarea-autosize-reactjs)
+[![npm version](https://img.shields.io/bundlephobia/minzip/texarea-autosize-reactjs.svg)](https://www.npmjs.com/package/texarea-autosize-reactjs)
+
 
 # Textarea Autosize for ReactJS
 
