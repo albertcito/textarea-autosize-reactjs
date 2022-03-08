@@ -27,5 +27,17 @@
   "dependencies": {
     "@types/autosize": "^4.0.1",
     "autosize": "^5.0.1"
-  }
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "textarea-autoresize",
+    "textarea",
+    "autosize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertcito/textarea-autosize-reactjs.git"
+  },
+  "homepage": "https://github.com/albertcito/textarea-autosize-reactjs#readme"
 }
