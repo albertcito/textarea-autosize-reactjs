@@ -1,6 +1,6 @@
 {
-  "name": "texarea-autosize-reactjs",
-  "version": "0.0.2",
+  "name": "textarea-autosize-reactjs",
+  "version": "0.0.1",
   "description": "Learning how to create React modules using TypeScript!",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
